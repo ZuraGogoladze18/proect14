@@ -1,0 +1,112 @@
+@media(max-width:480px){
+  .container{
+    margin-top: 71.85px;
+
+  }
+     /* header  */
+     .aizen{
+        width: 24px;
+height: 16px;
+
+     }
+     .header-nav{
+    top: 71.85px;
+
+     }
+     .madara{
+           width: 24px;
+height: 16px;
+
+     }
+     .guitar{
+        width: 39.87124252319336px;
+height: 39.85561752319336px;
+
+     }      
+     .obito{
+        column-gap: 16px;
+     }
+     .header-buuton{
+        width: 32px;
+height: 32px;
+border-radius: 8px;
+
+     }
+    /* section1 */
+    .section1{
+        padding-top: 32px;
+    }
+span{
+    font-family: Inter;
+font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 0%;
+
+}
+    /* siction2  */
+    .section2{
+        padding: 32px 0px 32px 20px;
+    }
+    .hh{
+        font-family: Inter;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 0%;
+
+    }
+    /* foooter */
+    .ichigo{
+        flex-direction: column;
+        row-gap: 40px;
+        align-items: center;
+        vertical-align: middle;
+        justify-content: center;
+        text-align: center;
+    }
+    /* contact  */
+    .hagoromo{
+        flex-direction: column;
+        width: 100%;
+        row-gap: 36px;
+    }
+    .fugaku{
+        width: 100%;
+    }
+    /* catalog */
+       .prev{
+    display: none;
+   }
+     .next{
+    display: none;
+   }
+    .meruem{
+    display: none;
+   }
+    .bakugo{
+    display: none;
+   }
+   .KILUA{
+    width: 36px;
+height: 32px;
+border-radius: 4px;
+
+   }
+   .orange{
+    width: 52px;
+height: 40px;
+border-radius: 8px;
+
+   }
+     .blue{
+    width: 52px;
+height: 40px;
+border-radius: 8px;
+
+   }
+   .konoha{
+    column-gap: 45px;
+   }
+  
+}
