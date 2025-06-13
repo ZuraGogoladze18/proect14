@@ -46,7 +46,9 @@ header{
         transform: rotate(360deg);
     }
 }
-
+.redot{
+    display: none;
+}
 .header-a{
     font-family:"Nerko One", cursive;
     font-weight: 400;
